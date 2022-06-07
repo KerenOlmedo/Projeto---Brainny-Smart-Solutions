@@ -1,6 +1,6 @@
-Instruções necessárias para executar o projeto:
+# Instruções necessárias para executar o projeto:
 - # No terminal executar o seguinte comando para intalar as dependências do projeto:
-  "npm install"
+  # "npm install"
 - # Em seguida executar o arquivo "criarLista.ts" através do terminal com o comando "ts-node criarLista.ts" para gerar a lista de dados fake e salvá-la em um arquivo JSON.
 - # Desafio 1: Inserir um caractere de entrada correspondente a letra inicial de um nome de cliente no campo da função "busca", linha 17 do código e em seguida executar o arquivo através do terminal com o comando "ts-node desafio1.ts" para gerar a lista de registros desejados.
 - # Desafio 2: Executar o arquivo "Desafio2.ts" através do terminal com o comando "ts-node desafio2.ts" para gerar a lista com os registros de nomes desejados.
@@ -16,7 +16,7 @@ Instruções necessárias para executar o projeto:
 - # Desafio 12: Executar o arquivo "Desafio12.ts" através do terminal com o comando "ts-node desafio12.ts" para gerar uma lista com o registro dos clientes que realizaram mais de 15 compras.
 - # Desafio 13: No arquivo "Desafio13.ts" inserir os dados do novo cliente no campo da função "inserir"(como já exemplificado), linha 19 do código e em seguida executar o arquivo através do terminal com o comando "ts-node desafio13.ts" para adicionar um novo cliente no inicio da lista de registros de clientes.
 
-Descrição das tecnologias utilizadas:
+# Descrição das tecnologias utilizadas:
 - # TypeScript
 - # Node
 - # JSON
